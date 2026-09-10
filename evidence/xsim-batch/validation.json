@@ -1,0 +1,19 @@
+{
+  "path": "vivado_2026_1/05_piso",
+  "tool": "Vivado 2026.1 XSim",
+  "execution": "batch, no GUI",
+  "status": "PASS",
+  "marker": "LAB2_PASS piso4 checks=114",
+  "commands_exit_code": [
+    0,
+    0,
+    0
+  ],
+  "inputs_sha256": {
+    "src/piso4.v": "f92dadd42b3ec3271c8ec797e5e05a7edbf17a91ad3bfa12a326f0fa41b898eb",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_piso.v": "aa7c90e77f50b10380fbda8a872ecc3d30e4d7fb4f905615b8c56c87a9a040dd",
+    "sim/tb_piso4.sv": "c07306c7c8c7f17cda4a6ac6ca1cd849a0d6b10fa0bab5beaeca8a6243450dc5"
+  },
+  "run_directory": "tmp/lab2-xsim/05_piso-1789046431456592100"
+}

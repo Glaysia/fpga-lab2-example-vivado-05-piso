@@ -1,0 +1,21 @@
+{
+  "project": "vivado_2026_1/05_piso",
+  "top": "lab2_piso",
+  "part": "xc7s75fgga484-1",
+  "execution": "Vivado 2026.1 batch, no GUI",
+  "exit_code": 0,
+  "seconds": 168.67,
+  "run_directory": "tmp/lab2-vivado/05_piso-1789045385398803700",
+  "inputs_sha256": {
+    "src/piso4.v": "f92dadd42b3ec3271c8ec797e5e05a7edbf17a91ad3bfa12a326f0fa41b898eb",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_piso.v": "aa7c90e77f50b10380fbda8a872ecc3d30e4d7fb4f905615b8c56c87a9a040dd",
+    "constraints/lab2_piso.xdc": "c409037fe63f53243e0cf24aac389f3a2d3669f676ce7c1babe52059585af5a5"
+  },
+  "status": "PASS",
+  "bitstream": {
+    "file": "lab2_piso.bit",
+    "bytes": 3687012,
+    "sha256": "c46dfa77b8db56ab26fe7e5e82af33191810cccf2f42d648aaa7f7db10a2ffb5"
+  }
+}
